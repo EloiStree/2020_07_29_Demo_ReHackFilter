@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.demorehackfilter",                              
+  "displayName": "Demo Re-Hack Filter",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Demo of how you can use rehack to filter messages from the chat as an application ready package.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{"be.eloistree.license":"0.0.1"},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://gitlab.com/eloistree/2020_07_28_accesscurrentip.git",
+"footprint":"",
+"revision":"8b0c1f3a1c80d15f11f0697670471d487946e8a6"},     
+  "category": "Script"                   
+} 

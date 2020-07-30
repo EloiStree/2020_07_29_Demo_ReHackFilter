@@ -1,0 +1,17 @@
+{
+    "name": "be.eloistree.DemoReHackFilter",
+    "references": [
+        "GUID:64e5c1a70ed4e994fac0756019228b42",
+        "GUID:39452555738409842b5fdcd34bd1d0ae",
+        "GUID:069281f4d98dae64b9b2abd84eb9c23a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

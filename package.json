@@ -7,7 +7,10 @@
   "unityRelease": "",                             
   "description": "Demo of how you can use rehack to filter messages from the chat as an application ready package.",                         
   "keywords": ["Script","Tool"],                       
-  "dependencies":{"be.eloistree.license":"0.0.1"},     
+  "dependencies":{"be.eloistree.license":"0.0.1",
+                  "be.eloistree.rehackunityeloidemo":"0.0.1",
+                  "be.eloistree.rehackunitycore":"0.0.1"
+                 },     
   "relatedPackages":{},     
   "samples" : [],     
   "author" : {

@@ -12,7 +12,12 @@
                   "be.eloistree.rehackunitycore":"0.0.1"
                  },     
   "relatedPackages":{},     
-  "samples" : [],     
+  "samples" : [
+{
+"displayName":"Demo" ,
+"description":"Demo of how to use the tool in Unity" ,
+"path":"Samples"
+}],      
   "author" : {
 "name":"",
 "mail":"",
